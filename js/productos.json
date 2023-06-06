@@ -1,0 +1,225 @@
+[
+
+    {
+        "id": "computador-01",
+        "nombre_producto": "Asus vivobook x AMD ryzen 5",
+        "imagen_producto": "./img/laptops/01.laptop_asus.jpeg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 3100000
+    },
+
+    {
+        "id": "computador-02",
+        "nombre_producto": "Hp pavilion intel core i5",
+        "imagen_producto": "./img/laptops/02.laptop_hp.jpeg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 3450000
+    },
+
+    {
+        "id": "computador-03",
+        "nombre_producto": "Acer R01G AMD ryzen 5",
+        "imagen_producto": "./img/laptops/03.laptop_acer.jpeg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 4120000
+    },
+
+    {
+        "id": "computador-04",
+        "nombre_producto": "Lenovo ideapad 1 AMD ryzen 7",
+        "imagen_producto": "./img/laptops/04.laptop_lenovo.jpeg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 3650000
+    },
+
+    {
+        "id": "computador-05",
+        "nombre_producto": "ROG strix scar intel core i9",
+        "imagen_producto": "./img/laptops/05.laptop_ROG.jpeg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 23000000
+    },
+
+
+    {
+        "id": "parlante-01",
+        "nombre_producto": "Marshall stockwerk II",
+        "imagen_producto": "./img/parlantes_inalambricos/01.Marshall.jpeg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1170000
+    },
+
+    {
+        "id": "parlante-02",
+        "nombre_producto": "Lg xboom go XG9QBK",
+        "imagen_producto": "./img/parlantes_inalambricos/02.LG.jpeg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 1450000
+    },
+
+    {
+        "id": "parlante-03",
+        "nombre_producto": "Jbl partybox 110",
+        "imagen_producto": "./img/parlantes_inalambricos/03.JBL.jpeg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 2000000
+    },
+
+    {
+        "id": "parlante-04",
+        "nombre_producto": "Sony SRS-XV900/B",
+        "imagen_producto": "./img/parlantes_inalambricos/04.SONY.jpeg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 3200000
+    },
+
+    {
+        "id": "parlante-05",
+        "nombre_producto": "Bose home speaker",
+        "imagen_producto": "./img/parlantes_inalambricos/05.BOSE.jpeg",
+        "categoria": {
+            "nombre": "Parlantes",
+            "id": "parlantes"
+        },
+        "precio": 2100000
+    },
+
+
+    {
+        "id": "celular-01",
+        "nombre_producto": "Iphone 14 pro max 256gb",
+        "imagen_producto": "./img/smartphones/01.Iphone14.jpeg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 7500000
+    },
+
+    {
+        "id": "celular-02",
+        "nombre_producto": "Samsung galaxy s23 ultra 256gb",
+        "imagen_producto": "./img/smartphones/02.SamsungS23Ultra.jpeg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 6640000
+    },
+
+    {
+        "id": "celular-03",
+        "nombre_producto": "Samsung galaxy a34 5g 128gb",
+        "imagen_producto": "./img/smartphones/03.SamsungA34.jpeg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1900000
+    },
+
+    {
+        "id": "celular-04",
+        "nombre_producto": "Motorola moto g72 128gb",
+        "imagen_producto": "./img/smartphones/04.MotorolaG72.jpeg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1350000
+    },
+
+    {
+        "id": "celular-05",
+        "nombre_producto": "Xiaomi redmi note 12 128GB",
+        "imagen_producto": "./img/smartphones/05.XiaomiNote12.jpeg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1100000
+    },
+
+
+    {
+        "id": "televisor-01",
+        "nombre_producto": "Samsung 60pulg crystal 4K-UHD",
+        "imagen_producto": "./img/televisores/01.tv_samsung.jpeg",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 2450000
+    },
+
+    {
+        "id": "televisor-02",
+        "nombre_producto": "Lg 70pulg nanocell 4K-UHD",
+        "imagen_producto": "./img/televisores/02.tv_lg.jpeg",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 3200000
+    },
+
+    {
+        "id": "televisor-03",
+        "nombre_producto": "Tcl 55pulg led 4K-UHD",
+        "imagen_producto": "./img/televisores/03.tv_tcl.jpeg",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 1978000
+    },
+
+    {
+        "id": "televisor-04",
+        "nombre_producto": "Kalley 50pulg QLED 4k-UHD",
+        "imagen_producto": "./img/televisores/04.tv_kalley.jpeg",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 1576000
+    },
+
+    {
+        "id": "televisor-05",
+        "nombre_producto": "Philips 65pulg led 4K-UHD",
+        "imagen_producto": "./img/televisores/05.tv_philips.jpeg",
+        "categoria": {
+            "nombre": "Televisores",
+            "id": "televisores"
+        },
+        "precio": 2760000
+    }
+]
